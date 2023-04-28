@@ -1,0 +1,79 @@
+@@ PMS Functions @@
+
+Assets Family (add, display all, edit, view, delete) ... ()
+Departments (add, display all, edit, view, delete)
+Sections (add, display all, edit, view, delete)
+Assets Category (add, display all, edit, view, delete, Filter) ... (Ok)
+Assets subcategory (add, display all, edit, view, delete, Filter) ...
+Assets (add - display all, edit, view, delete, Filter) ...
+Maintenanace Request (Add, Display all)
+Maintenanace Order
+Buildings/Areas
+Staff 
+Asset Allocation
+Asset Assignment
+System Users ...
+Fill Dropdown box from database ... (Completed)
+Fill Dropdown box based on user selection of another dropdownbox ...
+Filter Table Data Based on Dropdown Box Selection ...
+Sign up from ... (completed)
+Sign in from ... (Completed)
+Log out ...
+Import Assets Data From "Excel" into "MySQL Database"
+Asset Transfer
+Service Request Form
+Web-Application Publishing (Local Server)
+Web-Application Publishing (Web Server).
+Page Header (admin)
+Page Footer (admin)
+Page Header (superuser)
+Page Footer (superuser)
+Page Header (user)
+Page Footer (user).
+
+
+$$$ Phase(I) $$$$$$$$$$$$$$$$$$$$
+Dashbaord ...
+
+Service Request Page ... (Completed)
+Work Requests Page
+Work Order Page + Functions
+Work Log (Backlog, Do, Doing, Done)
+
+Assets Page (add, edit, view, del) + Image + barcode  ...
+Assets List (by Department) ...
+
+Link "Asset" to "relative-requests" ...
+Areas (Page + image)
+Requester Recieving button ...
+
+Printing
+Dashboard
+publish Web Application
+
+--> Dependant Select box
+--> Filter table based on Selection Box 'Option'
+--> Import Data From Excel
+
+
+
+
+$$$ Phase(II) $$$$$$$$$$$$$$$$$$$
+Departments Page
+Sections Page
+Staff Page
+Asset Allocation to "Area"
+Asset assignment to "Staff"
+Staff custody Report
+Exit Permission Cycle
+import Assets from Excel sheet
+Dashbaord
+
+
+
+
+
+
+
+
+
